@@ -2,5 +2,5 @@
     "appSecret": "1dc3666a2b8b4f57ecacc8fe29723734",
     "pageAccessToken": "EAAddaamoSeABAK1qZAY4sQNi9BQlQuHWFImWZCkqkXGuESxoiHc7IFnNBmm9wjWSo7s81KRNjm1LAum6sPJmWSUvNZBD3GaPcqVs6ZCkbwp0cSlaKalw0zhlQAGHMM4C7ByfLhJYRSllgQd9tG8nmRycIuZBO7BYDg2LgEDGhzwZDZD",
     "validationToken": "TOKEN",
-    "serverURL": "to_be_set_manually"
+    "serverURL": "https://heavy-dodo-55.localtunnel.me"
 }

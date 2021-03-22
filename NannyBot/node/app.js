@@ -256,6 +256,7 @@ function receivedMessage(event) {
     // the text we received.
     switch (messageText.replace(/[^\w\s]/gi, '').trim().toLowerCase()) {
       case 'hello':
+        console.log('AYYYYYYYYYY');
       case 'hi':
         sendHiMessage(senderID);
         break;
